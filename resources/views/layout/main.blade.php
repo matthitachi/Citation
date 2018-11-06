@@ -64,7 +64,15 @@ $meta = array(
     <link rel="stylesheet" type="text/css" href="{{asset('css/colors/default.css')}}" />
     <link rel="stylesheet" type="text/css" href="{{asset('css/shortcode.css')}}" />
     <link rel="stylesheet" type="text/css" href="{{asset('css/ionicons.css')}}" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128761263-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'UA-128761263-1');
+    </script>
 </head>
 
 <body>
