@@ -14,7 +14,7 @@ $meta = array(
     'acs'=>['title'=>'ACS Bibliography Generator to Reference your Chemistry Papers','desc'=>'Get the Grade A you deserve by using ACS bibliography machine to generate references for your chemistry papers. Sign up and get full access now'],
     'asa'=>['title'=>'ASA Annotated Bibliography Maker - Quickly and Conveniently','desc'=>'content="ASA bibliography is one of the most important citation techniques currently. Let your rigorous academic citation work take a breather and use our ASA citation"'],
     'ieee'=>['title'=>'IEEE Format Bibliography - Satisfying All Your Needs','desc'=>'Generating a bibliography/reference list may prove difficult especially for novice students. Our IEEE bibliography tool presents a specialized way for'],
-    'Bluebook'=>['title'=>'Bluebook','desc'=>'Bluebook'],
+    'bluebook'=>['title'=>'Bluebook','desc'=>'Bluebook'],
     'apsa'=>['title'=>'APSA Format Bibliography Generator - Instant referencing','desc'=>'Use our APSA bibliography and citation maker for all the tough assignments that you need to hand in by yesterday. Why burn the midnight oil when we\'ve got you'],
     'harvard'=>['title'=>'Harvard Bibliography Maker - Easier Tool','desc'=>'Don\'t get confused with your Harvard citation work. Our Harvard bibliography creator brings it all to life with a simple click'],
 
@@ -82,9 +82,9 @@ $meta = array(
     <div class="container">
         <!-- LOGO -->
         <a class="logo text-uppercase" href="/">
-            <img src="/images/logo-plagi.svg" alt="" class="logo-light" height="35" />
+            {{--<img src="/images/logo-plagi.svg" alt="" class="logo-light" height="35" />--}}
             <!--<img src="images/logod.png" alt="" class="logo-dark" height="74" />-->
-            {{--<h3 style="color: brown;">logo</h3>--}}
+            <h3 style="color: brown;">Citation</h3>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-arrow-down"></i>
@@ -579,12 +579,12 @@ $meta = array(
                     <div class="title text-center mb-5">
 
                         <!--<img src="images/logod.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">-->
-                        <h1 style="color: brown;">logo</h1>
-                        <h4>logo.net</h4>
+                        <h1 style="color: brown;">Citation</h1>
+                        <h4>citation.projecttopcs.org</h4>
                         <p class="copyright mt-3">2018 © logo. All Rights Reserved</p>
                         <ul class="footer-texts list-inline mb-2">
                             <li class="list-inline-item"><a href="#" class="">Privacy</a></li>
-                            <li class="list-inline-item"><a href="#" class="">Terms & Conditions</i></a></li>
+                            <li class="list-inline-item"><a href="#" class="">Terms & Conditions</a></li>
                         </ul>
                     </div>
 
