@@ -581,7 +581,7 @@ $meta = array(
                         <!--<img src="images/logod.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">-->
                         <h1 style="color: brown;">Citation</h1>
                         <h4>citation.projecttopcs.org</h4>
-                        <p class="copyright mt-3">2018 © logo. All Rights Reserved</p>
+                        <p class="copyright mt-3">All Rights Reserved to 2018 © Recode Limited.</p>
                         <ul class="footer-texts list-inline mb-2">
                             <li class="list-inline-item"><a href="#" class="">Privacy</a></li>
                             <li class="list-inline-item"><a href="#" class="">Terms & Conditions</a></li>
