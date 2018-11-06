@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+sitemap: https://citation.projecttopics.org/sitemap.xml
