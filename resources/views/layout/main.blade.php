@@ -578,7 +578,7 @@ $meta = array(
                 <div class="row justify-content-center">
                     <div class="title text-center mb-5">
 
-                        <img src="images/logo.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">
+                        <img src="/images/logo.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">
                         {{--<h1 style="color: brown;">Citation</h1>--}}
                         <h4>citation.projecttopcs.org</h4>
                         <p class="copyright mt-3">All Rights Reserved to 2018 © Recode Limited.</p>
