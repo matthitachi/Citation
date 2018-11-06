@@ -36,7 +36,7 @@ $meta = array(
     <!-- Site Title -->
     <title>{{$meta[$style]['title']}} | {{strtoupper($source)}} Citation</title>
     <!-- Site favicon -->
-    <link rel="shortcut icon" href="{{asset('images/favicon.jpg')}}">
+    <link rel="shortcut icon" href="{{asset('images/icon.png')}}">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" type="text/css">
 
@@ -82,9 +82,9 @@ $meta = array(
     <div class="container">
         <!-- LOGO -->
         <a class="logo text-uppercase" href="/">
-            {{--<img src="/images/logo-plagi.svg" alt="" class="logo-light" height="35" />--}}
+            <img src="/images/logo.png" alt="" class="logo-light" height="35" />
             <!--<img src="images/logod.png" alt="" class="logo-dark" height="74" />-->
-            <h3 style="color: brown;">Citation</h3>
+            {{--<h3 style="color: brown;">Citation</h3>--}}
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-arrow-down"></i>
@@ -578,8 +578,8 @@ $meta = array(
                 <div class="row justify-content-center">
                     <div class="title text-center mb-5">
 
-                        <!--<img src="images/logod.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">-->
-                        <h1 style="color: brown;">Citation</h1>
+                        <img src="images/logo.png" alt="" class="img-fluid mx-auto d-block mb-3" width="100">
+                        {{--<h1 style="color: brown;">Citation</h1>--}}
                         <h4>citation.projecttopcs.org</h4>
                         <p class="copyright mt-3">All Rights Reserved to 2018 © Recode Limited.</p>
                         <ul class="footer-texts list-inline mb-2">
